@@ -1,16 +1,16 @@
 {
   "hero": {
-    "badge": "Graphic Designer",
-    "title": "Studio Cauris",
-    "titleHighlight": "Solutions",
-    "description": "I'm a passionate graphic designer with 5+ years of experience creating compelling visual identities, digital experiences, and print designs that help brands stand out and connect with their audience.",
+    "badge": "Boxer Professional",
+    "title": "Mark Backbone",
+    "titleHighlight": "Coaching",
+    "description": "Modern and user-friendly e-commerce website design with focus on conversion optimization and mobile experience.",
     "cta": {
       "contact": "Get In Touch",
-      "viewWork": "View My Work"
+      "viewWork": "View My Achievements"
     },
-    "location": "Paris, France",
+    "location": "Marseilles, France",
     "stats": {
-      "projects": "Projects Completed"
+      "projects": "Championships & rankings"
     }
   },
   "portfolio": {
@@ -19,47 +19,47 @@
     "description": "Explore a selection of my recent work spanning brand identity, web design, mobile interfaces, and print campaigns.",
     "projects": {
       "brandIdentity": {
-        "title": "Brand Identity Design",
+        "title": "France championship",
         "description": "Complete brand identity package for a tech startup including logo, color palette, typography, and brand guidelines.",
-        "tags": ["Branding", "Logo Design", "Identity"]
+        "tags": ["#3", "6 rounds", "70kg"]
       },
       "ecommerce": {
-        "title": "E-commerce Website Design",
+        "title": "country championship",
         "description": "Modern and user-friendly e-commerce website design with focus on conversion optimization and mobile experience.",
-        "tags": ["Web Design", "UI/UX", "E-commerce"]
+        "tags": ["#1", "4 rounds", "80kg"]
       },
       "mobileApp": {
-        "title": "Mobile App Interface",
+        "title": "France championship",
         "description": "Clean and intuitive mobile app interface design for a fitness tracking application with custom iconography.",
-        "tags": ["Mobile Design", "UI/UX", "App Design"]
+        "tags": ["#3", "8 rounds", "80kg"]
       },
       "printCampaign": {
-        "title": "Print Campaign Design",
+        "title": "local championship",
         "description": "Creative print advertising campaign for a luxury fashion brand including posters, brochures, and magazine ads.",
-        "tags": ["Print Design", "Advertising", "Fashion"]
+        "tags": ["#1", "6 rounds", "70kg"]
       },
       "packaging": {
-        "title": "Packaging Design",
+        "title": "country championship",
         "description": "Sustainable packaging design for organic food products with eco-friendly materials and modern aesthetics.",
-        "tags": ["Packaging", "Sustainability", "Food"]
+        "tags": ["#1", "6 rounds", "80kg"]
       },
       "socialMedia": {
-        "title": "Social Media Graphics",
+        "title": "country championship",
         "description": "Cohesive social media graphics package for a lifestyle brand including templates, stories, and post designs.",
-        "tags": ["Social Media", "Templates", "Lifestyle"]
+        "tags": ["#4", "8 rounds", "70kg"]
       }
     },
-    "cta": "View Project"
+    "cta": "View Match Details"
   },
   "contact": {
     "badge": "Let's Work Together",
-    "title": "Ready to Start Your Next Project?",
-    "description": "I'm always excited to work on new creative challenges. Let's discuss how we can bring your vision to life with compelling design solutions.",
-    "email": "contact@studio-cauris.com",
+    "title": "Ready to Start Your Next championship?",
+    "description": "I'm always excited to work on new creative challenges. Let's discuss how we can bring your ambition to life",
+    "email": "contact@markbackbone.com",
     "phone": "+33 (697) 123-4567"
   },
   "footer": {
-    "copyright": "© 2025 Studio Cauris. All rights reserved."
+    "copyright": "© 2025 Mark Backbone. All rights reserved."
   },
   "common": {
     "altTexts": {

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Linkedin, Instagram, Dribbble } from "lucide-react";
+import { Linkedin, Instagram, Facebook } from "lucide-react";
 import { getDictionary } from "@/app/[lang]/dictionaries";
 
 export default async function Footer({ lang }: { lang: "en" | "fr" }) {
@@ -26,7 +26,7 @@ export default async function Footer({ lang }: { lang: "en" | "fr" }) {
               href="#"
               className="text-muted-foreground hover:text-primary transition-colors"
             >
-              <Dribbble className="h-5 w-5" />
+              <Facebook className="h-5 w-5" />
             </Link>
           </div>
         </div>

@@ -1,7 +1,7 @@
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Mail } from "lucide-react";
-import { MapPin, Linkedin, Instagram, Dribbble } from "lucide-react";
+import { MapPin, Linkedin, Instagram, Facebook } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
 import { getDictionary } from "@/app/[lang]/dictionaries";
@@ -62,7 +62,7 @@ export default async function Hero({ lang }: { lang: "en" | "fr" }) {
                   href="#"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
-                  <Dribbble className="h-5 w-5" />
+                  <Facebook className="h-5 w-5" />
                 </Link>
               </div>
             </div>

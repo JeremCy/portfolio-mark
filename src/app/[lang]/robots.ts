@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: ["/fr/", "/en/"],
       disallow: ["/api/", "/fr/admin/", "/en/admin/", "/admin/"],
     },
-    sitemap: "https://studio-cauris.com/sitemap.xml",
+    sitemap: "https://studio-Faya.com/sitemap.xml",
   };
 }

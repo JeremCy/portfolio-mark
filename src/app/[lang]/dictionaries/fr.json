@@ -1,65 +1,65 @@
 {
   "hero": {
-    "badge": "Designer Graphique",
-    "title": "Studio Cauris",
-    "titleHighlight": "Créatives",
-    "description": "Je suis un designer graphique passionné avec plus de 5 ans d'expérience dans la création d'identités visuelles percutantes, d'expériences digitales et de designs print qui aident les marques à se démarquer et à connecter avec leur audience.",
+    "badge": "Boxer Professionel",
+    "title": "Mark Backbone",
+    "titleHighlight": "Coach",
+    "description": "Je suis un boxeur professionnel et coach expérimenté avec plus de 10 ans d'expérience dans le monde du sport. Je suis spécialisé dans la formation physique et mentale pour les athlètes de tous niveaux.",
     "cta": {
       "contact": "Me Contacter",
       "viewWork": "Voir Mon Travail"
     },
-    "location": "Paris, France",
+    "location": "Marseille, France",
     "stats": {
-      "projects": "Projets Réalisés"
+      "projects": "Championnat et classement"
     }
   },
   "portfolio": {
     "badge": "Portfolio",
-    "title": "Projets Sélectionnés",
-    "description": "Explorez une sélection de mes travaux récents couvrant l'identité de marque, le design web, les interfaces mobiles et les campagnes print.",
+    "title": "Championnat et classement",
+    "description": "Explorez une sélection de mes travaux récents couvrant mes compétitions et mes résultats dans le monde du boxe.",
     "projects": {
       "brandIdentity": {
-        "title": "Design d'Identité de Marque",
+        "title": "Championnat France",
         "description": "Package complet d'identité de marque pour une startup tech incluant logo, palette de couleurs, typographie et guidelines de marque.",
-        "tags": ["Branding", "Design de Logo", "Identité"]
+        "tags": ["#3", "6 rounds", "70kg"]
       },
       "ecommerce": {
-        "title": "Design de Site E-commerce",
-        "description": "Design de site e-commerce moderne et convivial avec focus sur l'optimisation des conversions et l'expérience mobile.",
-        "tags": ["Design Web", "UI/UX", "E-commerce"]
+        "title": "Championnat régional",
+        "description": "Championnat régional de boxe avec classement des participants et des résultats.",
+        "tags": ["#1", "4 rounds", "80kg"]
       },
       "mobileApp": {
-        "title": "Interface d'Application Mobile",
+        "title": "Championnat France",
         "description": "Design d'interface mobile épuré et intuitif pour une application de suivi fitness avec iconographie personnalisée.",
-        "tags": ["Design Mobile", "UI/UX", "Design d'App"]
+        "tags": ["#3", "8 rounds", "80kg"]
       },
       "printCampaign": {
-        "title": "Design de Campagne Print",
+        "title": "Championnat Local",
         "description": "Campagne publicitaire print créative pour une marque de mode de luxe incluant affiches, brochures et publicités magazine.",
-        "tags": ["Design Print", "Publicité", "Mode"]
+        "tags": ["#1", "6 rounds", "70kg"]
       },
       "packaging": {
-        "title": "Design d'Emballage",
+        "title": "Championnat régional",
         "description": "Design d'emballage durable pour produits alimentaires bio avec matériaux éco-responsables et esthétique moderne.",
-        "tags": ["Packaging", "Durabilité", "Alimentaire"]
+        "tags": ["#1", "6 rounds", "80kg"]
       },
       "socialMedia": {
-        "title": "Graphismes Réseaux Sociaux",
+        "title": "Championnat régional",
         "description": "Package cohérent de graphismes pour réseaux sociaux pour une marque lifestyle incluant templates, stories et designs de posts.",
-        "tags": ["Réseaux Sociaux", "Templates", "Lifestyle"]
+        "tags": ["#4", "8 rounds", "70kg"]
       }
     },
-    "cta": "Voir le Projet"
+    "cta": "Voir le Détail des Matchs"
   },
   "contact": {
     "badge": "Travaillons Ensemble",
-    "title": "Prêt à Démarrer Votre Prochain Projet ?",
-    "description": "Je suis toujours enthousiaste à l'idée de travailler sur de nouveaux défis créatifs. Discutons de la façon dont nous pouvons donner vie à votre vision avec des solutions de design percutantes.",
-    "email": "contact@studio-cauris.com",
+    "title": "Prêt à Démarrer Votre Championnat ?",
+    "description": "Je suis toujour a l'ecoute de vos besoin et je suis disponible pour vous aider à atteindre vos objectifs. Contactez-moi dès maintenant pour discuter de vos projets.",
+    "email": "contact@markbackbone.com",
     "phone": "+33 (697) 123-4567"
   },
   "footer": {
-    "copyright": "© 2025 Studio Cauris. Tous droits réservés."
+    "copyright": "© 2025 Mark Backbone. Tous droits réservés."
   },
   "common": {
     "altTexts": {

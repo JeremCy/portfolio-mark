@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "studio Cauris",
+  title: "studio Faya",
   description: "Graphic Designer",
 };
 
@@ -38,13 +38,13 @@ export default async function RootLayout({
       <head>
         <meta property="description" content="Graphic Designer" />
         <meta property="og:description" content="Graphic Designer" />
-        <meta property="og:url" content="studio-cauris.com" />
-        <meta property="og:title" content="Studio Cauris" />
-        <meta property="twitter:title" content="Studio Cauris" />
+        <meta property="og:url" content="studio-Faya.com" />
+        <meta property="og:title" content="Studio Faya" />
+        <meta property="twitter:title" content="Studio Faya" />
         <meta property="twitter:description" content="Graphic Designer" />
         <meta property="twitter:image" content="" />
         <meta property="twitter:card" content="summary" />
-        <title>Studio Cauris</title>
+        <title>Studio Faya</title>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
