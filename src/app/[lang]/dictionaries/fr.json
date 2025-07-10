@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "badge": "Designer Graphique",
+    "title": "Studio Cauris",
+    "titleHighlight": "Créatives",
+    "description": "Je suis un designer graphique passionné avec plus de 5 ans d'expérience dans la création d'identités visuelles percutantes, d'expériences digitales et de designs print qui aident les marques à se démarquer et à connecter avec leur audience.",
+    "cta": {
+      "contact": "Me Contacter",
+      "viewWork": "Voir Mon Travail"
+    },
+    "location": "Paris, France",
+    "stats": {
+      "projects": "Projets Réalisés"
+    }
+  },
+  "portfolio": {
+    "badge": "Portfolio",
+    "title": "Projets Sélectionnés",
+    "description": "Explorez une sélection de mes travaux récents couvrant l'identité de marque, le design web, les interfaces mobiles et les campagnes print.",
+    "projects": {
+      "brandIdentity": {
+        "title": "Design d'Identité de Marque",
+        "description": "Package complet d'identité de marque pour une startup tech incluant logo, palette de couleurs, typographie et guidelines de marque.",
+        "tags": ["Branding", "Design de Logo", "Identité"]
+      },
+      "ecommerce": {
+        "title": "Design de Site E-commerce",
+        "description": "Design de site e-commerce moderne et convivial avec focus sur l'optimisation des conversions et l'expérience mobile.",
+        "tags": ["Design Web", "UI/UX", "E-commerce"]
+      },
+      "mobileApp": {
+        "title": "Interface d'Application Mobile",
+        "description": "Design d'interface mobile épuré et intuitif pour une application de suivi fitness avec iconographie personnalisée.",
+        "tags": ["Design Mobile", "UI/UX", "Design d'App"]
+      },
+      "printCampaign": {
+        "title": "Design de Campagne Print",
+        "description": "Campagne publicitaire print créative pour une marque de mode de luxe incluant affiches, brochures et publicités magazine.",
+        "tags": ["Design Print", "Publicité", "Mode"]
+      },
+      "packaging": {
+        "title": "Design d'Emballage",
+        "description": "Design d'emballage durable pour produits alimentaires bio avec matériaux éco-responsables et esthétique moderne.",
+        "tags": ["Packaging", "Durabilité", "Alimentaire"]
+      },
+      "socialMedia": {
+        "title": "Graphismes Réseaux Sociaux",
+        "description": "Package cohérent de graphismes pour réseaux sociaux pour une marque lifestyle incluant templates, stories et designs de posts.",
+        "tags": ["Réseaux Sociaux", "Templates", "Lifestyle"]
+      }
+    },
+    "cta": "Voir le Projet"
+  },
+  "contact": {
+    "badge": "Travaillons Ensemble",
+    "title": "Prêt à Démarrer Votre Prochain Projet ?",
+    "description": "Je suis toujours enthousiaste à l'idée de travailler sur de nouveaux défis créatifs. Discutons de la façon dont nous pouvons donner vie à votre vision avec des solutions de design percutantes.",
+    "email": "contact@studio-cauris.com",
+    "phone": "+33 (697) 123-4567"
+  },
+  "footer": {
+    "copyright": "© 2025 Studio Cauris. Tous droits réservés."
+  },
+  "common": {
+    "altTexts": {
+      "designerPortrait": "Portrait du Designer"
+    }
+  }
+}

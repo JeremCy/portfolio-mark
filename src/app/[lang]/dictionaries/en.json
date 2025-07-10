@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "badge": "Graphic Designer",
+    "title": "Studio Cauris",
+    "titleHighlight": "Solutions",
+    "description": "I'm a passionate graphic designer with 5+ years of experience creating compelling visual identities, digital experiences, and print designs that help brands stand out and connect with their audience.",
+    "cta": {
+      "contact": "Get In Touch",
+      "viewWork": "View My Work"
+    },
+    "location": "Paris, France",
+    "stats": {
+      "projects": "Projects Completed"
+    }
+  },
+  "portfolio": {
+    "badge": "Portfolio",
+    "title": "Featured Projects",
+    "description": "Explore a selection of my recent work spanning brand identity, web design, mobile interfaces, and print campaigns.",
+    "projects": {
+      "brandIdentity": {
+        "title": "Brand Identity Design",
+        "description": "Complete brand identity package for a tech startup including logo, color palette, typography, and brand guidelines.",
+        "tags": ["Branding", "Logo Design", "Identity"]
+      },
+      "ecommerce": {
+        "title": "E-commerce Website Design",
+        "description": "Modern and user-friendly e-commerce website design with focus on conversion optimization and mobile experience.",
+        "tags": ["Web Design", "UI/UX", "E-commerce"]
+      },
+      "mobileApp": {
+        "title": "Mobile App Interface",
+        "description": "Clean and intuitive mobile app interface design for a fitness tracking application with custom iconography.",
+        "tags": ["Mobile Design", "UI/UX", "App Design"]
+      },
+      "printCampaign": {
+        "title": "Print Campaign Design",
+        "description": "Creative print advertising campaign for a luxury fashion brand including posters, brochures, and magazine ads.",
+        "tags": ["Print Design", "Advertising", "Fashion"]
+      },
+      "packaging": {
+        "title": "Packaging Design",
+        "description": "Sustainable packaging design for organic food products with eco-friendly materials and modern aesthetics.",
+        "tags": ["Packaging", "Sustainability", "Food"]
+      },
+      "socialMedia": {
+        "title": "Social Media Graphics",
+        "description": "Cohesive social media graphics package for a lifestyle brand including templates, stories, and post designs.",
+        "tags": ["Social Media", "Templates", "Lifestyle"]
+      }
+    },
+    "cta": "View Project"
+  },
+  "contact": {
+    "badge": "Let's Work Together",
+    "title": "Ready to Start Your Next Project?",
+    "description": "I'm always excited to work on new creative challenges. Let's discuss how we can bring your vision to life with compelling design solutions.",
+    "email": "contact@studio-cauris.com",
+    "phone": "+33 (697) 123-4567"
+  },
+  "footer": {
+    "copyright": "© 2025 Studio Cauris. All rights reserved."
+  },
+  "common": {
+    "altTexts": {
+      "designerPortrait": "Designer Portrait"
+    }
+  }
+}
